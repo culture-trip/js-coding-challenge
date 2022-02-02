@@ -14,7 +14,9 @@ export function Gallery() {
   return (
     <div className="gallery-container">
       <h2>Gallery</h2>
+      <ul>
       {/* Display data here */}
+      </ul>
     </div>
   );
 }
